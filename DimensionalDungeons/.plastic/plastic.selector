@@ -1,4 +1,4 @@
 repository "DimensionalDungeons@igarc096@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/avale-Background/CharacterSprite"    
+     

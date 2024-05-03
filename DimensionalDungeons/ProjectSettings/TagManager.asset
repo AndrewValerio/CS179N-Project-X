@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - WallsCollider
+  - SolidObjects
   - 
   - 
   - 
@@ -40,4 +40,31 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3280724781
+    locked: 0
+  - name: Wall
+    uniqueID: 2043725765
+    locked: 0
+  - name: Stairs
+    uniqueID: 3875008115
+    locked: 0
+  - name: Border
+    uniqueID: 969133425
+    locked: 0
+  - name: Decoration1
+    uniqueID: 3722162909
+    locked: 0
+  - name: Decoration2
+    uniqueID: 3188274855
+    locked: 0
+  - name: Objects
+    uniqueID: 2694018881
+    locked: 0
+  - name: Player
+    uniqueID: 2138772479
+    locked: 0
+  - name: Archways
+    uniqueID: 1048384023
     locked: 0
